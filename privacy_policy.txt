@@ -1,0 +1,110 @@
+GYMPILOT PRIVACY POLICY
+=======================
+
+Effective Date: 23 April 2026
+
+This Privacy Policy explains how GymPilot ("we", "us", "our") collects, uses, stores, and shares information when you use the GymPilot mobile application and related services ("Service").
+
+By using GymPilot, you agree to this Privacy Policy.
+
+1. INFORMATION WE COLLECT
+-------------------------
+We may collect and process:
+
+A) Account and Identity Information
+- Name
+- Email address
+- Phone number
+- Authentication identifiers (including social sign-in data where applicable)
+
+B) Gym and Team Information
+- Gym profile details (name, address, phone, email, gym code/ID)
+- Team role data (owner/manager/trainer)
+
+C) Member and Operational Data Entered by You
+- Member details (name, membership ID, phone, status, plan details, dates)
+- Attendance/check-in records
+- Payment records (amounts, methods, discounts, notes/comments)
+- Services/add-ons and plan configuration
+- Payment page settings and public payment configuration data
+
+
+D) Files and Media
+- Content you upload (for example, payment QR images)
+
+2. HOW WE USE INFORMATION
+-------------------------
+We use information to:
+- Authenticate users and secure accounts
+- Provide core app functionality (members, attendance, payments, reports)
+- Enforce role-based permissions
+- Operate and maintain the Service
+- Troubleshoot errors, prevent abuse, and improve reliability
+- Communicate service updates and support responses
+- Comply with legal obligations
+
+
+4. DATA SHARING
+---------------
+We do not sell personal data.
+We may share data with:
+- Infrastructure and service providers (hosting, storage, authentication, monitoring)
+- Legal/regulatory authorities when required by law
+- Business transfers (for example, merger/acquisition), subject to lawful safeguards
+
+5. DATA RETENTION
+-----------------
+We retain data for as long as needed to:
+- Provide the Service
+- Maintain business and legal records
+- Resolve disputes and enforce agreements
+
+Retention periods may vary by data type and legal requirements.
+
+6. SECURITY
+-----------
+We use reasonable technical and organizational safeguards designed to protect data, including access controls and secure transmission practices.
+However, no system is 100% secure.
+
+7. CHILDREN'S PRIVACY
+---------------------
+GymPilot is intended for business/administrative use and is not directed to children.
+Do not submit children's personal data unless permitted and lawful in your jurisdiction.
+
+8. YOUR RIGHTS
+--------------
+Depending on your jurisdiction, you may have rights to:
+- Access, correct, or delete your personal data
+- Object to or restrict certain processing
+- Withdraw consent where processing is consent-based
+- Request data portability
+
+To exercise rights, contact us using the details below.
+
+9. INTERNATIONAL DATA TRANSFERS
+-------------------------------
+Your information may be processed in countries other than your own.
+Where required, we apply appropriate safeguards for cross-border transfers.
+
+10. THIRD-PARTY SERVICES
+------------------------
+GymPilot may integrate third-party services (for example, sign-in providers).
+Those providers process data under their own privacy policies and terms.
+
+11. APP STORES AND PLAY CONSOLE DISCLOSURE
+------------------------------------------
+For Google Play compliance, this policy describes data handling for:
+- Account data
+- User-provided operational data
+- Device/diagnostic logs for app reliability
+
+You are responsible for ensuring your in-app data collection practices remain consistent with this policy and your Play Console disclosures.
+
+12. CHANGES TO THIS POLICY
+--------------------------
+We may update this Privacy Policy from time to time.
+The "Effective Date" will be updated when changes are made.
+Continued use after updates constitutes acceptance of the revised policy.
+
+
+
